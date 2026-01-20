@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie
-- 👀 I’m a Software Development student at SAIT
-- 🌱 I’m currently learning Java, React, Swift and BlockChain
+- 👀 I’m a Software Developer.
+- 🌱 I’m currently learning Java, React, Swift.
 
 <!---
 wNv-paCe/wNv-paCe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
