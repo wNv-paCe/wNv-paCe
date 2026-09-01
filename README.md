@@ -42,33 +42,6 @@ Currently, I'm focusing on building things with **FastAPI, Next.js, and Swift**.
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### 📝 charlie-blog
-
-A personal blog and playground for sharing ideas, experimenting with technologies, and building things.
-
-<br>
-
-<a href="https://github.com/wNv-paCe/charlie-blog">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-| | |
-|---|---|
-| **Frontend** | Next.js |
-| **Backend** | FastAPI |
-| **Purpose** | Personal Blog & Experiments |
-| **Status** | 🚧 Building |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -151,17 +124,21 @@ Happy to connect with developers who enjoy building interesting things.
 
 ## 📌 Currently
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🔭  Working on    charlie-blog              │
-│  🌱  Learning      FastAPI · Next.js · Swift │
-│  💡  Interested in  AI · Web · Backend       │
-│  🤝  Open to       Open Source               │
-│  📫  Contact       kun.zheng@fastmail.com    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+<div align="center">
+
+FastAPI · Next.js · Swift
+
+<br>
+
+Build → Experiment → Break → Understand → Improve
+
+<br>
+
+I'm going deeper into full-stack development, with a particular focus on backend architecture and building complete applications from the ground up.
+
+At the same time, I'm exploring Swift, AI, and whatever interesting technology catches my attention.
+
+</div>
 
 ---
 
