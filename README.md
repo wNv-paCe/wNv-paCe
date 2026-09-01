@@ -170,7 +170,7 @@ At the same time, I'm exploring Swift, AI, and whatever interesting technology c
 
 ### 💭
 
-> *"Build things. Break things. Learn. Repeat."*
+*"Build things. Break things. Learn. Repeat."*
 
 <br>
 
